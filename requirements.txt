@@ -2,6 +2,6 @@ pydantic
 fastapi
 uvicorn
 sqlmodel
-
+torch==2.1.2
 httpx
 pytest
