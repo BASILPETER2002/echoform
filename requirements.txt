@@ -1,7 +1,8 @@
-torch
 pydantic
 fastapi
 uvicorn
 sqlmodel
+torch
+sentence-transformers
 httpx
 pytest
